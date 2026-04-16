@@ -17,7 +17,7 @@ In this lab, you’ve learned about One Hot and Binary state machines and how to
 
 Colby Allen, Austin Bartram
 
-Summary
+## Summary
 
 In this lab, we learned how to implement the same finite state machine using both one-hot and binary encodings. We also practiced building next-state logic from state tables and K-maps, and saw how the two encoding methods trade off between flip-flop count and combinational logic complexity.
 
