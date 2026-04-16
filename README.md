@@ -21,8 +21,6 @@ Colby Allen, Austin Bartram
 
 In this lab, we learned how to implement the same finite state machine using both one-hot and binary encodings. We also practiced building next-state logic from state tables and K-maps, and saw how the two encoding methods trade off between flip-flop count and combinational logic complexity.
 
----
-
 ## Lab Questions
 
 ### Compare and contrast One Hot and Binary encodings
