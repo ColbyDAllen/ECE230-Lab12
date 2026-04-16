@@ -31,6 +31,6 @@ Colby Allen, Austin Bartram
 - Our team found one-hot encoding easier because each state had its own flip-flop, so it was more direct to see which transitions should activate each next-state equation. Binary encoding was more compact, but it took more thought because we had to track bit patterns and separate K-maps for each "next_state" bit.
 
 ### In what conditions would you have to use one over the other? Think about resource utilization on the FPGA.
-If an FPGA design has plenty of flip-flops available and we want simpler logic, one-hot encoding can be a good choice. If we need to reduce flip-flop usage, especially as the number of states grows, binary encoding is probably better since it represents more states with fewer storage elements.
+- If an FPGA design has plenty of flip-flops available and we want simpler logic, one-hot encoding can be a good choice. If we need to reduce flip-flop usage, especially as the number of states grows, binary encoding is probably better since it represents more states with fewer storage elements.
 
 
